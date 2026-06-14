@@ -47,7 +47,7 @@ I help ambitious companies build scalable, modern, and performant web & mobile a
 
 ## 📈 Why Work With Me?
 
-- 6+ years of hands-on coding experience  
+- 7+ years of hands-on coding experience  
 - Deep understanding of both frontend and backend technologies  
 - Architecture-first mindset for building future-proof systems  
 - Fast delivery, clear communication, and reliable long-term support  
